@@ -29,7 +29,6 @@ OSCI - это прикольная программа созданая на ко
 git clone https://github.com/TheKarimZZZ/OSCI.git
 
 3. Переход в директорию OSCI
-cd OSCI
 
 4. Создание виртуального окружения (рекомендуется)
 python -m venv venv
