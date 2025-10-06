@@ -26,7 +26,7 @@ OSCI - это прикольная программа созданая на ко
 ### Установка (Windows/Linux/macOS)
 
 1. Клонирование репозитория
-git clone https://github.com/TheKarimZ/OSCI.git
+git clone https://github.com/TheKarimZZZ/OSCI.git
 
 3. Переход в директорию OSCI
 cd OSCI
@@ -68,11 +68,11 @@ python osci.py
 2. Документация - полное руководство пользователя
 
 ## Структура проекта
-OSCI/
-├── osci.py 
-├── requirements.txt 
-├── README.md 
-└── osci.exe
+OSCI/\n
+├── osci.py \n
+├── requirements.txt \n
+├── README.md \n
+└── osci.exe\n
 
 ## Технические детали
 
@@ -97,7 +97,7 @@ OSCI/
 
 ## Вклад в проект
 Мы приветствуем вклад в развитие OSCI! Если вы хотите предложить улучшения:
-Напишичте в телеграм https://thekarimz.t.ne
+Напишичте в телеграм https://thekarimz.t.me
 
 ---
 Создано с ❤️ TheKarimZ
